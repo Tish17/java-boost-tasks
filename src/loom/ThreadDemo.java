@@ -2,7 +2,7 @@ package loom;
 
 public class ThreadDemo {
 
-    private static final int THREAD_COUNT = 1000;
+    private static final int THREAD_COUNT = 10000;
 
     public static void main(String[] args) {
         virtualThreads();
